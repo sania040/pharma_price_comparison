@@ -1,0 +1,27 @@
+# Ignore virtual environment folder
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment variables or secret files
+.env
+*.env
+
+# Ignore VSCode settings (if using VSCode)
+.vscode/
