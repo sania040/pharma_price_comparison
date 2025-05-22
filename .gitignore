@@ -25,3 +25,4 @@ Thumbs.db
 
 # Ignore VSCode settings (if using VSCode)
 .vscode/
+node_modules
